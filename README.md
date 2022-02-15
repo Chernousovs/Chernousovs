@@ -18,7 +18,7 @@ FrontEnd
 
 - 👋 Hi, I’m Vasilijs Chernousovs
 - 👀 I’m interested in training my developer skills and grow as professional software developer 
-- 🌱 I'm currently studing in CODELEX Codong school
+- 🌱 I'm currently studing in CODELEX Coding school
      My skills: C#/.Net, HTML and CSS, TypeScript, and Angular framework, Unit testing, SQL, GIT. 
 - 📫 How to reach me @LinkedIn https://www.linkedin.com/in/vasily-tchernousov/ @gmail vtchernousov@gmail.com
 
