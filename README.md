@@ -9,6 +9,7 @@ BackEnd
 
 FrontEnd
 -
+![](https://img.shields.io/badge/Editor-VStudio_Code-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-HTML&CSS-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 ![](https://img.shields.io/badge/Framework-TypeScript-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
